@@ -1,7 +1,6 @@
 #ライブラリーのインポート
 import requests
 import pandas as pd
-import folium
 import streamlit as st
 import numpy as np
 #- 楽天トラベルのデータ
